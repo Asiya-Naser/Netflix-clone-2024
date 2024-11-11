@@ -1,0 +1,18 @@
+.header_outer_container ul{
+    position:sticky;
+    top:0;
+    display:flex; 
+     justify-content: space-between;
+    align-items:center;
+    height:10vh;
+    background-color: red;
+    z-index: 1;
+    width:90% 
+}
+/* .header_container ul {
+  display: flex;
+    justify-content: space-between;
+     align-items:center; 
+    width: 100%;
+
+} */
